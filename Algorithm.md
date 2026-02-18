@@ -25,3 +25,5 @@ Array Patterns:
     Difference Array:
         What is it?
 
+Linked List Pattern:
+    
